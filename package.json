@@ -1,0 +1,14 @@
+{
+  "name": "shady-meadows",
+  "version": "1.0.0",
+  "description": "This repository contains UI tests for the Shady Meadows contact form",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "Richard Lewis",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1"
+  }
+}
